@@ -1,3 +1,3 @@
 # Template
 
-### A simple template to organize stuffs.
+### A simple tag template to organize stuffs.
